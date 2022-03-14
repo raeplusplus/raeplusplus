@@ -19,8 +19,5 @@ Ask me about Dragon Age or Avatar: The Last Airbender
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=raeplusplus&icon=0&color=5)](https://visitcount.itsvg.in)
