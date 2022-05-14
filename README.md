@@ -10,7 +10,7 @@
   I love learning new things about design and development through making cool projects.  
 </p>
 <p align="center">
-How I'm learning the <a href="https://phaser.io/">Phaser</a> framework: I'm creating a web based RPG game inspired by cowboys, Norse Mythology and climate change. Currently in Pre-Production.
+How I'm learning the <a href="https://phaser.io/">Phaser</a> framework: I'm creating a web based RPG game inspired by cowboys, Norse Mythology and climate change.
 </p>
 <p align="center">
 Ask me about Dragon Age or Avatar: The Last Airbender
@@ -18,15 +18,17 @@ Ask me about Dragon Age or Avatar: The Last Airbender
   </br>
   
   <!-- SOCIALS -->
+  <h3 align="center">Contact Me</h3>
    <p align="center">
 <a href="https://twitter.com/raeplusplus"><img src="https://img.shields.io/badge/@raeplusplus-CB4D89?&style=plastic&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.codewars.com/users/raeplusplus"><img src="https://img.shields.io/badge/Codewars-CB4D89?style=plastic&logo=Codewars&logoColor=white" height=25></a>
-<a href="mailto:raeshellerose@outlook.com"><img src="https://img.shields.io/badge/raeshellerose@email.com-CB4D89?style=plastic&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/raeshellerose/"><img src="https://img.shields.io/badge/raeshelle_rose-CB4D89?style=plastic&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://dev.to/raeplusplus"><img src="https://img.shields.io/badge/Download_Resume-CB4D89?style=plastic&logo=googledrive&logoColor=white" height=25></a>
+<a href="mailto:raeshellerose@outlook.com"><img src="https://img.shields.io/badge/Email-CB4D89?style=plastic&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/raeshellerose/"><img src="https://img.shields.io/badge/Raeshelle_Rose-CB4D89?style=plastic&logo=linkedin&logoColor=white" height=25></a>
+<!-- <a href="https://dev.to/raeplusplus"><img src="https://img.shields.io/badge/Download_Resume-CB4D89?style=plastic&logo=googledrive&logoColor=white" height=25></a> -->
 </p>
 
 <!-- LANGUAGES/TOOLS -->
+<h3 align="center">Code Stats</h3>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=raeplusplus&theme=monokai&date_format=j%20M%5B%20Y%5D">
 </p>
