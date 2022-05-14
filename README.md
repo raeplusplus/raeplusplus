@@ -7,10 +7,10 @@
   Hey there, I'm <strong>Raeshelle</strong>, or Rae for short.
 </p>
 <p align="center">
-  I am a software engineer creating web applications that tell impactful stories, improve the user experience and bring people together. I love learning new things about design and development through making cool projects.  
+  I love learning new things about design and development through making cool projects.  
 </p>
 <p align="center">
-How I'm learning the [Phaser](https://phaser.io/) framework: I'm creating a web based RPG game inspired by cowboys, Norse Mythology and climate change. Currently in Pre-Production.
+How I'm learning the <a href="https://phaser.io/">Phaser</a> framework: I'm creating a web based RPG game inspired by cowboys, Norse Mythology and climate change. Currently in Pre-Production.
 </p>
 <p align="center">
 Ask me about Dragon Age or Avatar: The Last Airbender
