@@ -45,6 +45,7 @@
       <img src="https://img.shields.io/badge/GIT-CB4D89?style=plastic&logo=git&logoColor=white" height=25>
     </p>
   <!-- PROJECTS -->
+  <h3 align="center">Highlighted Projects</h3>
 <div align="center">
   <table>
       <tr>
@@ -58,16 +59,6 @@
             </p>
           </p>
         </td>
-        <!-- <td width="50%"> -->
-          <!-- <h3 align="center">NASA's Astronomy Picture of the Day</h3>
-          <p align="center">
-            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
-            </p>
-          </p> -->
-        <!-- </td> -->
       </tr>
   </table>
 </div>
