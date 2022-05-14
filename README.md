@@ -5,11 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=CB4D89&center=true&vCenter=true&lines=software+engineer;game+developer;fiction+writer">
   <br>
   Hey there, I'm <strong>Raeshelle</strong>, or Rae for short.
-
+</p>
+<p align="center">
   I am a software engineer creating web applications that tell impactful stories, improve the user experience and bring people together. I love learning new things about design and development through making cool projects.  
-
+</p>
+<p align="center">
 How I'm learning the [Phaser](https://phaser.io/) framework: I'm creating a web based RPG game inspired by cowboys, Norse Mythology and climate change. Currently in Pre-Production.
-
+</p>
+<p align="center">
 Ask me about Dragon Age or Avatar: The Last Airbender
   </p>
   </br>
@@ -27,6 +30,7 @@ Ask me about Dragon Age or Avatar: The Last Airbender
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=raeplusplus&theme=monokai&date_format=j%20M%5B%20Y%5D">
 </p>
+<h3 align="center">Technical Skills</h3>
   <p align="center">
 <img src="https://img.shields.io/badge/HTML5-CB4D89?style=plastic&logo=html5&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/CSS3-CB4D89?style=plastic&logo=css3&logoColor=white" height=25>
