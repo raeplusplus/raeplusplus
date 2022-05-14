@@ -24,60 +24,8 @@ Ask me about Dragon Age or Avatar: The Last Airbender
 </p>
 
 <!-- LANGUAGES/TOOLS -->
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=raeplusplus&theme=monokai&date_format=j%20M%5B%20Y%5D">
-
+</p>
   
   <!-- PROJECTS -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytesbybianca&hide_border=true&theme=tokyonight_duo">
-</div>
-
-<h2 align="left"><img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/arrow.png?raw=true" alt="arrow icon" height="20px"> Projects:</h2>
-<div align="center">
-  <table>
-      <tr>
-        <td width="50%">
-          <h3 align="center">Sentiment Analysis</h3>
-          <p align="center">
-            <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/sentiment-analysis.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              Generate text or input your own and your text will be identified as positive, negative, or neutral.
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">NASA's Astronomy Picture of the Day</h3>
-          <p align="center">
-            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
-            </p>
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <h3 align="center">Marvel Cinematic Universe</h3>
-          <p align="center">
-            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://allmcu.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a></span>
-            <p align="center">
-              View a countdown to the next MCU release, then choose an MCU movie to view more details.
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">The Good Place Quotes</h3>
-          <p align="center">
-            <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/good-place.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://thegoodplace.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              View quotes from your favorite character from The Good Place (or click the random button!).
-            </p>
-          </p>
-        </td>
-      </tr>
-  </table>
-</div>
