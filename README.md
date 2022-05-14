@@ -27,5 +27,18 @@ Ask me about Dragon Age or Avatar: The Last Airbender
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=raeplusplus&theme=monokai&date_format=j%20M%5B%20Y%5D">
 </p>
-  
+  <p align="center">
+<img src="https://img.shields.io/badge/HTML5-CB4D89?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-CB4D89?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-CB4D89?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Node.js-CB4D89?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/React-CB4D89?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/Express.js-CB4D89?style=for-the-badge&logo=express&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/MongoDB-CB4D89?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Figma-CB4D89?style=for-the-badge&logo=figma&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/firebase-CB4D89?style=for-the-badge&logo=firebase&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/jQuery-CB4D89?style=for-the-badge&logo=jquery&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-CB4D89?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GIT-CB4D89?style=for-the-badge&logo=git&logoColor=white" height=25>
+</p>
   <!-- PROJECTS -->
