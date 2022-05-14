@@ -1,5 +1,5 @@
 <!-- HEADER -->
-  <img align="center" src="https://github.com/raeplusplus/raeplusplus/blob/makeover/RaeshelleRose_GitHub_Cover.png">
+  <img align="center" src="https://github.com/raeplusplus/raeplusplus/blob/main/RaeshelleRose_GitHub_Cover.png">
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=CB4D89&center=true&vCenter=true&lines=software+engineer;game+developer;fiction+writer">
