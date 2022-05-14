@@ -24,7 +24,8 @@ Ask me about Dragon Age or Avatar: The Last Airbender
 </p>
 
 <!-- LANGUAGES/TOOLS -->
-
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=raeplusplus&theme=monokai&date_format=j%20M%5B%20Y%5D">
+</p>
   
   <!-- PROJECTS -->
