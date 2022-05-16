@@ -53,7 +53,7 @@
           <h3 align="center">Yggdrasil</h3>
           <p align="center">
             <a href="https://github.com/raeplusplus/yggdrasil" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/6gjHYgUgjpJxhD1JtA/giphy.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CB4D89?style=plastic&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-CB4D89?style=plastic" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/raeplusplus/Yggdrasil" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CB4D89?style=plastic&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-CB4D89?style=plastic" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Yggdrasil is an elegant, but simple site designed to show off the equally elegant brand.
             </p>
