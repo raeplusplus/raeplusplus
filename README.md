@@ -21,7 +21,7 @@
   <p align="center">
     <a href="https://twitter.com/raeplusplus"><img src="https://img.shields.io/badge/Twitter-CB4D89?&style=plastic&logo=twitter&logoColor=white" height=25></a>
     <a href="https://www.codewars.com/users/raeplusplus"><img src="https://img.shields.io/badge/Codewars-CB4D89?style=plastic&logo=Codewars&logoColor=white" height=25></a>
-    <a href="mailto:raeshellerose@outlook.com"><img src="https://img.shields.io/badge/Email-CB4D89?style=plastic&logo=gmail&logoColor=white" height=25></a>
+    <a href="mailto:raeplusplus@gmail.com"><img src="https://img.shields.io/badge/Email-CB4D89?style=plastic&logo=gmail&logoColor=white" height=25></a>
     <a href="https://www.linkedin.com/in/raeshellerose/"><img src="https://img.shields.io/badge/LinkedIn-CB4D89?style=plastic&logo=linkedin&logoColor=white" height=25></a>
     <!-- <a href="https://dev.to/raeplusplus"><img src="https://img.shields.io/badge/Download_Resume-CB4D89?style=plastic&logo=googledrive&logoColor=white" height=25></a> -->
   </p>
