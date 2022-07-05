@@ -60,6 +60,16 @@
             </p>
           </p>
         </td>
+        <td width="50%">
+          <h3 align="center">Federation Guide To Aliens</h3>
+          <p align="center">
+            <a href="https://github.com/raeplusplus/yggdrasil" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/star-trek-app/blob/main/star-trek-app.gif" alt="Federation Field Guide To Aliens project gif, typing in alien name and getting back information displayed on page"/> </a>
+            <span> <a href="https://github.com/raeplusplus/star-trek-app" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CB4D89?style=plastic&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://federationfieldguide.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-CB4D89?style=plastic" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              A field guide database to various star trek aliens 
+            </p>
+          </p>
+        </td>
       </tr>
   </table>
 </div>
