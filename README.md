@@ -77,7 +77,7 @@
         <td width="50%">
           <h3 align="center">Client: Rochelle Sockwell</h3>
           <p align="center">
-            <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/sockwell-site-1/blob/main/rochelle-sockwell-site-raeshelle-rose.gif" alt="project example"/> </a>
+            <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/RiUjbYZ3YPkq3ffkR9/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer""></a> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-CB4D89?style=plastic" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Site for client's small buisness offerings. Continuously maintaining site.
