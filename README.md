@@ -90,7 +90,7 @@
             <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/the-elf-shelf-dnd/blob/main/the-elf-shelf.gif" alt="project example"/> </a>
             <span> <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer""></a> <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-CB4D89?style=plastic&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-CB4D89?style=plastic" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Site for client's small buisness offerings. Continuously maintaining site.
+              Site for Dungeons & Dragons 5th Edition reference materials.
             </p>
           </p>
         </td>
