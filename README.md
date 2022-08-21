@@ -50,7 +50,7 @@
           <h3 align="center">Yggdrasil</h3>
           <p align="center">
             <a href="https://github.com/raeplusplus/yggdrasil" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/6gjHYgUgjpJxhD1JtA/giphy.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/raeplusplus/Yggdrasil" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/raeplusplus/Yggdrasil" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Yggdrasil is an elegant, but simple site designed to show off the equally elegant brand.
             </p>
@@ -60,7 +60,7 @@
           <h3 align="center">Federation Guide To Aliens</h3>
           <p align="center">
             <a href="https://github.com/raeplusplus/star-trek-app" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/star-trek-app/blob/main/star-trek-app.gif" alt="Federation Field Guide To Aliens project gif, typing in alien name and getting back information displayed on page"/> </a>
-            <span> <a href="https://github.com/raeplusplus/star-trek-app" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://federationfieldguide.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/raeplusplus/star-trek-app" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://federationfieldguide.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               A field guide database to various star trek aliens 
             </p>
@@ -74,7 +74,7 @@
           <h3 align="center">Client: Rochelle Sockwell</h3>
           <p align="center">
             <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/RiUjbYZ3YPkq3ffkR9/giphy.gif" alt="project example"/> </a>
-            <span> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer""></a> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer""></a> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Site for client's small buisness offerings. Continuously maintaining site.
             </p>
@@ -84,7 +84,7 @@
           <h3 align="center">The Elf Shelf</h3>
           <p align="center">
             <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/the-elf-shelf-dnd/blob/main/the-elf-shelf.gif" alt="project example"/> </a>
-            <span> <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer""></a> <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer""></a> <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               Site for Dungeons & Dragons 5th Edition reference materials.
             </p>
