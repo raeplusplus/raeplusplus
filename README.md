@@ -10,7 +10,7 @@
     I'm a life long lover of art and all things creative and seek to implement that passion into tech. Weither its game development, fiction writing or Dungeons & Dragons - I've got a project idea for it that or may not be featured below.  
   </p>
   <p align="center">
-  In any industry, the most important aspect is its people. I believe that community building and by extension community based learning is increadibly important. Follow me on twitter for more about that :)
+  In any industry, the most important aspect is its people. I believe that community building, and by extension community based learning, is increadibly important. Follow me on twitter for more about that :)
   </p>
   <p align="center">
   I am open to new clients and new opporotunities - the best way to contact me about either is through twitter or email. See you soon!
@@ -47,6 +47,16 @@
   <table>
       <tr>
         <td width="50%">
+          <h3 align="center">Coming Soon</h3>
+          <p align="center">
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/coming-soon.jpg" alt="Voodoonauts project gif"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+             <strong> TECH STACK -<strong> DESCRIPTION
+            </p>
+          </p>
+        </td>
+        <td width="50%">
           <h3 align="center">Yggdrasil</h3>
           <p align="center">
             <a href="https://github.com/raeplusplus/yggdrasil" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/6gjHYgUgjpJxhD1JtA/giphy.gif" alt="project example"/> </a>
@@ -56,42 +66,34 @@
             </p>
           </p>
         </td>
-        <td width="50%">
-          <h3 align="center">Federation Guide To Aliens</h3>
-          <p align="center">
-            <a href="https://github.com/raeplusplus/star-trek-app" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/star-trek-app/blob/main/star-trek-app.gif" alt="Federation Field Guide To Aliens project gif, typing in alien name and getting back information displayed on page"/> </a>
-            <span> <a href="https://github.com/raeplusplus/star-trek-app" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://federationfieldguide.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              A field guide database to various star trek aliens 
-            </p>
-          </p>
-        </td>
       </tr>
   </table>
+  <!--
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Client: Rochelle Sockwell</h3>
+          <h3 align="center">Coming Soon</h3>
           <p align="center">
-            <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/RiUjbYZ3YPkq3ffkR9/giphy.gif" alt="project example"/> </a>
-            <span> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer""></a> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/coming-soon.jpg" alt="project example"/> </a>
+            <span> <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a>  <a href="#" target="_blank" rel="noreferrer""></a> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Site for client's small buisness offerings. Continuously maintaining site.
+              <strong>TECH STACK</strong> - DESCRIPTION
             </p>
           </p>
         </td>
-        <td width="50%">
-          <h3 align="center">The Elf Shelf</h3>
+         <td width="50%">
+          <h3 align="center">Coming Soon</h3>
           <p align="center">
-            <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/the-elf-shelf-dnd/blob/main/the-elf-shelf.gif" alt="project example"/> </a>
-            <span> <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer""></a> <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://theelfshelf.netlify.app/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/coming-soon.jpg" alt="project example"/> </a>
+            <span> <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a>  <a href="#" target="_blank" rel="noreferrer""></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Site for Dungeons & Dragons 5th Edition reference materials.
+              <strong>TECH STACK</strong> - DESCRIPTION
             </p>
           </p>
         </td>
       </tr>
   </table>
+  -->
 </div>
 <!-- Code Stats -->
 <h3 align="center">Code Stats</h3>
