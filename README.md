@@ -100,10 +100,10 @@
   <div align="center">
   <table>
     <tr>
-      <td>
+      <td width="50%">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=raeplusplus&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D&hide_border=true">
       </td>
-      <td>
+      <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=raeplusplus&show_icons=false&bg_color=000000&hide_border=true&text_color=ffea00&title_color=ffffff&include_all_commits=true&count_private=true">
     </td>
     </tr>
