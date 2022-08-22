@@ -10,7 +10,7 @@
     I'm a life long lover of art and all things creative and seek to implement that passion into tech. Weither its game development, fiction writing or Dungeons & Dragons - I've got a project idea for it that or may not be featured below.  
   </p>
   <p align="center">
-  In any industry, the most important aspect is its people. I believe that community building and by extension community based learning is increadibly important. Follow me on twitter for more about that :)
+  In any industry, the most important aspect is its people. I believe that community building, and by extension community based learning, is increadibly important. Follow me on twitter for more about that :)
   </p>
   <p align="center">
   I am open to new clients and new opporotunities - the best way to contact me about either is through twitter or email. See you soon!
@@ -47,7 +47,7 @@
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Voodoonauts</h3>
+          <h3 align="center">Coming Soon</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/coming-soon.jpg" alt="Voodoonauts project gif"/> </a>
             <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
