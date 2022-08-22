@@ -97,8 +97,16 @@
 </div>
 <!-- Code Stats -->
 <h3 align="center">Code Stats</h3>
-  <p align="center">
+  <div align="center">
+  <table>
+    <tr>
+      <td>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=raeplusplus&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D&hide_border=true">
+      </td>
+      <td>
     <img src="https://github-readme-stats.vercel.app/api?username=raeplusplus&show_icons=false&bg_color=000000&hide_border=true&text_color=ffea00&title_color=ffffff&include_all_commits=true&count_private=true">
+    </td>
+    </tr>
+    </table>
     <img src="https://activity-graph.herokuapp.com/graph?username=raeplusplus&bg_color=000000&color=ffd700&line=b39700&point=ffea00&hide_border=true&title_color=">
   </p>
