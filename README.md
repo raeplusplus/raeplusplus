@@ -7,13 +7,13 @@
     Howdy, I'm <strong>Raeshelle Rose</strong>, but you can call me Rae!
   </p>
   <p align="center">
-    I'm a life long lover of art and all things creative and seek to implement that passion into tech. Weither its game development, fiction writing or Dungeons & Dragons - I've got a project idea for it that or may not be featured below.  
+    I'm a life long lover of art and all things creative and seek to implement that passion into tech. Whether its game development, fiction writing or Dungeons & Dragons - I've got a project idea for it that or may not be featured below.  
   </p>
   <p align="center">
-  In any industry, the most important aspect is its people. I believe that community building, and by extension community based learning, is increadibly important. Follow me on twitter for more about that :)
+  In any industry, the most important aspect is its people. I believe that community building, and by extension community based learning, is incredibly important. Follow me on twitter for more about that :)
   </p>
   <p align="center">
-  I am open to new clients and new opporotunities - the best way to contact me about either is through twitter or email. See you soon!
+  I am open to new clients and new opportunities - the best way to contact me about either is through twitter or email. See you soon!
   </p>
   
 <!-- SOCIALS -->
