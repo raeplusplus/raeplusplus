@@ -52,7 +52,10 @@
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/voodoonauts.gif" alt="Voodoonauts project gif"/> </a>
             <span> <a href="https://voodoonauts.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-             <strong> TECH STACK: JavaScript, HTML, CSS, Node, React -<strong> A redisign of my writing fellowship's website using React
+             <strong> TECH STACK: JavaScript, HTML, CSS, Node, React<strong> 
+            </p>
+            <p align="center">
+              A redisign of my writing fellowship's website using React
             </p>
           </p>
         </td>
@@ -62,7 +65,10 @@
             <a href="https://github.com/raeplusplus/yggdrasil" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/6gjHYgUgjpJxhD1JtA/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/raeplusplus/Yggdrasil" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              <strong>Tech Stack: JavaScript, HTML5, CSS3, Webpack - </strong>Yggdrasil is an elegant, but simple site designed to show off the equally elegant brand.
+              <strong>Tech Stack: JavaScript, HTML5, CSS3, Webpack</strong>
+            </p>
+            <p>
+              Yggdrasil is an elegant, but simple site designed to show off the equally elegant brand.
             </p>
           </p>
         </td>
