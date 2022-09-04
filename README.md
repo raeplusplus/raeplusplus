@@ -47,12 +47,12 @@
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Coming Soon</h3>
+          <h3 align="center">Voodoonauts</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/coming-soon.jpg" alt="Voodoonauts project gif"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/voodoonauts.gif" alt="Voodoonauts project gif"/> </a>
+            <span> <a href="https://voodoonauts.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-             <strong> TECH STACK -<strong> DESCRIPTION
+             <strong> TECH STACK: JavaScript, HTML, CSS, Node, React -<strong> A redisign of my writing fellowship's website using React
             </p>
           </p>
         </td>
