@@ -49,8 +49,17 @@
         <td width="50%">
           <h3 align="center">Voodoonauts</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/voodoonauts.gif" alt="Voodoonauts project gif"/> </a>
-            <span> <a href="https://voodoonauts.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/raeplusplus/voodoonauts" target="_blank" rel="noreferrer"> 
+              <img src="https://github.com/raeplusplus/raeplusplus/blob/main/voodoonauts.gif" alt="Voodoonauts project gif"/> 
+            </a>
+            <span> 
+              <a href="https://github.com/raeplusplus/voodoonauts" target="_blank" rel="noreferrer"">
+                <img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px">
+              </a>
+              <a href="https://voodoonauts.netlify.app/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px">
+              </a> 
+             </span>
             <p align="center">
              <strong> TECH STACK: JavaScript, HTML, CSS, Node, React<strong> 
             </p>
@@ -63,43 +72,58 @@
           <h3 align="center">Yggdrasil</h3>
           <p align="center">
             <a href="https://github.com/raeplusplus/yggdrasil" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/6gjHYgUgjpJxhD1JtA/giphy.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/raeplusplus/Yggdrasil" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a> <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> 
+              <a href="https://github.com/raeplusplus/Yggdrasil" target="_blank" rel="noreferrer"">
+                <img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px">
+              </a> 
+              <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               <strong>Tech Stack: JavaScript, HTML5, CSS3, Webpack</strong>
             </p>
-            <p>
+            <p align="center">
               Yggdrasil is an elegant, but simple site designed to show off the equally elegant brand.
             </p>
           </p>
         </td>
       </tr>
   </table>
-  <!--
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Coming Soon</h3>
+          <h3 align="center">The Elf Shelf</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/coming-soon.jpg" alt="project example"/> </a>
-            <span> <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a>  <a href="#" target="_blank" rel="noreferrer""></a> <a href="https://rochellesockwell.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/the-elf-shelf-dnd/blob/main/the-elf-shelf.gif" alt="project example"/> </a>
+            <span> 
+            <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer"">
+              <img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px">
+            </a>  
+            <a href="https://theelfshelf.netlify.app/" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px">
+              </a> 
+              </span>
             <p align="center">
-              <strong>TECH STACK</strong> - DESCRIPTION
+              <strong>TECH STACK: Javascript, Node, D&D 5E API</strong>
+            </p>
+            <p align="center">
+              Dungeons & Dragons 5E reference site for players and DMs new and old to the game!
             </p>
           </p>
         </td>
          <td width="50%">
-          <h3 align="center">Coming Soon</h3>
+          <h3 align="center">Federation Field Guide To Aliens</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/raeplusplus/blob/main/coming-soon.jpg" alt="project example"/> </a>
-            <span> <a href="https://github.com/raeplusplus/the-elf-shelf-dnd" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a>  <a href="#" target="_blank" rel="noreferrer""></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/raeplusplus/star-trek-app" target="_blank" rel="noreferrer"> <img src="https://github.com/raeplusplus/star-trek-app/blob/main/star-trek-app.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/raeplusplus/star-trek-app" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"></a>  <a href="https://federationfieldguide.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              <strong>TECH STACK</strong> - DESCRIPTION
+              <strong>TECH STACK: JavaScript, MongoDB, NodeJS, ExpressJS</strong>
+            </p>
+            <p align="center">
+              A site to look up your favorite Star Trek Aliens using my own API.
             </p>
           </p>
         </td>
       </tr>
   </table>
-  -->
 </div>
 <!-- Code Stats -->
 <h3 align="center">Code Stats</h3>
