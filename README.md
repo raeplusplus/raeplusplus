@@ -138,5 +138,7 @@
     </td>
     </tr>
     </table>
+    <!--
     <img src="https://activity-graph.herokuapp.com/graph?username=raeplusplus&bg_color=000000&color=ffd700&line=b39700&point=ffea00&hide_border=true&title_color=">
+    -->
   </p>
