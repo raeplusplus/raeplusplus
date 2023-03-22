@@ -7,22 +7,22 @@
     Howdy, I'm <strong>Raeshelle Rose</strong>, but you can call me Rae!
   </p>
   <p align="center">
-    I'm a life long lover of art and all things creative and seek to implement that passion into tech. Whether its game development, fiction writing or Dungeons & Dragons - I've got a project idea for it that or may not be featured below.  
+    I'm a life long lover of art and all things creative and seek to implement that passion into tech. Whether its game development, fiction writing or Dungeons & Dragons - I've got a project idea for it that may or may not be featured below.  
+  </p>
+  <p align="center"> I'm a data analytics student delving into natural language processin. I stream my studying and project builds on <a href="https://www.twitch.tv/curiositycoded">twitch</a> - come be my study buddy!
   </p>
   <p align="center">
   In any industry, the most important aspect is its people. I believe that community building, and by extension community based learning, is incredibly important. Follow me on twitter for more about that :)
   </p>
   <p align="center">
-  I am open to new clients and new opportunities - the best way to contact me about either is through twitter or email. See you soon!
+  I am not open to new clients at the moment, but stay tuned! See you soon!
   </p>
   
 <!-- SOCIALS -->
   <h3 align="center">Contact Me</h3>
   <p align="center">
-    <a href="https://twitter.com/raeplusplus"><img src="https://img.shields.io/badge/Twitter-ffd700?&style=flat-square&logo=twitter&logoColor=black" height=25></a>
-    <a href="mailto:raeplusplus@gmail.com"><img src="https://img.shields.io/badge/Email-ffd700?style=flat-square&logo=gmail&logoColor=black" height=25></a>
+    <a href="https://twitter.com/curiositycoded"><img src="https://img.shields.io/badge/Twitter-ffd700?&style=flat-square&logo=twitter&logoColor=black" height=25></a>
     <a href="https://www.linkedin.com/in/raeshellerose/"><img src="https://img.shields.io/badge/LinkedIn-ffd700?style=flat-square&logo=linkedin&logoColor=black" height=25></a>
-    <!-- <a href="https://dev.to/raeplusplus"><img src="https://img.shields.io/badge/Download_Resume-ffd700?style=flat-square&logo=googledrive&logoColor=black" height=25></a> -->
   </p>
 
 
