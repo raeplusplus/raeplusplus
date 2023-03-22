@@ -9,10 +9,7 @@
   <p align="center">
     I'm a life long lover of art and all things creative and seek to implement that passion into tech. Whether its game development, fiction writing or Dungeons & Dragons - I've got a project idea for it that may or may not be featured below.  
   </p>
-  <p align="center"> I'm a data analytics student delving into natural language processin. I stream my studying and project builds on <a href="https://www.twitch.tv/curiositycoded">twitch</a> - come be my study buddy!
-  </p>
-  <p align="center">
-  In any industry, the most important aspect is its people. I believe that community building, and by extension community based learning, is incredibly important. Follow me on twitter for more about that :)
+  <p align="center"> I'm a data analytics student delving into natural language processing. I stream my studying and project builds on <a href="https://www.twitch.tv/curiositycoded">twitch</a> - come be my study buddy!
   </p>
   <p align="center">
   I am not open to new clients at the moment, but stay tuned! See you soon!
